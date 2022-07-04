@@ -1,0 +1,49 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+section{
+    display: flex;
+}
+.user_name{
+    color: blueviolet;
+}
+
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.half-width img{
+    width: 100%;
+}
+
+.home_content {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.home_content img {
+    width: 100%;
+}
+
+#cv-button{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-image: linear-gradient(blueviolet, rgb(21, 205, 214));
+    padding: 10px 40px;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+
+.Home{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
