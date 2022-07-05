@@ -8,6 +8,7 @@ body{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .user_name{
     color: blueviolet;
@@ -18,9 +19,6 @@ h1{
 }
 span{
     color: orange;
-}
-.half-width img{
-    width: 100%;
 }
 
 .home_content {
@@ -34,7 +32,7 @@ span{
     width: 100%;
 }
 
-#cv-button{
+#button{
     color: rgb(0, 0, 0);
     text-decoration: none;
     background-image: linear-gradient(blueviolet, rgb(21, 205, 214));
@@ -47,3 +45,12 @@ span{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+
+.drem-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
